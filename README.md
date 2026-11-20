@@ -3,6 +3,7 @@
 Robot fleet health monitoring pipeline built on **Databricks** and **Snowflake**. It processes 4.5M telemetry readings from 500 simulated warehouse robots, detects failing robots with per-robot anomaly detection, and serves the results through a Snowflake warehouse and a Streamlit dashboard.
 
 ![Dashboard](docs/dashboard.png)
+![Dashboard](docs/dashboard1.png)
 
 ## Results
 
